@@ -1,3 +1,11 @@
+## Nike Clone Website
+
+Welcome to the Nike Clone Website project!
+
+You can view the live website(http://mynikeclonewebsite.netlify.app).
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
